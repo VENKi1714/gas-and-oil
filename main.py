@@ -205,7 +205,7 @@ if __name__ == '__main__':
 
 
 
-    # # Filter Return Logs for Defective Products
+    # Filter Return Logs for Defective Products
     # defective_returns_df = return_logs_df.filter(col("ReturnType") == "Defective")
     #
     # # Join with Stock Ledger to adjust stock levels
